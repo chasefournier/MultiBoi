@@ -1,6 +1,6 @@
-<img width="990" height="729" alt="image" src="DCF7E167-E265-4C53-ACA0-9E889ABF9789.png" />
+<img width="990" height="729" alt="image" src="/images/logo.png" />
 
-<img width="990" height="729" alt="image" src="Screenshot 2026-02-02 131530.png" />
+<img width="990" height="729" alt="image" src="/images/screenshot.png" />
 
 
 The MultiBoi is an Open Sourced Multi functional Board for multiple different game consoles, With the Raspberry Pi Pico at the heart of it. I'ts purpose is geared towards being a repair tool.
